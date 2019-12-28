@@ -1,0 +1,2 @@
+# set rescan cronjob
+crontab /defaults/nextcloud-rescan
