@@ -1,2 +1,4 @@
+#!/usr/bin/with-contenv bash
+
 # set rescan cronjob
 crontab /defaults/nextcloud-rescan
